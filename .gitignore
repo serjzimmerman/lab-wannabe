@@ -1,0 +1,5 @@
+# Ignore checkpoints
+.ipynb_checkpoints/
+
+# Ignore vscode junk
+.vscode/
